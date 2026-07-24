@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "The Six Stages of AI Adoption: a model built around identity, not tooling"
+message: "If you use this model, please cite it."
+type: dataset
+authors:
+  - family-names: Osondu
+    given-names: Victor
+    affiliation: AI Tutorium
+version: "1.0.0"
+date-released: "2026-07-24"
+license: CC-BY-4.0
+url: "https://github.com/VictorOsondu/ai-adoption-model"
+repository: "https://aitutorium.com"
+abstract: >-
+  A model for AI adoption that sorts people by internal experience rather than
+  by tools deployed. Six stages — Nomad, Observer, Dabbler, Integrator,
+  Architect, Innovator — each defined by a characteristic feeling and the
+  question underneath it. The model's central claim is that the largest barrier
+  to adoption is not a skill gap but a self-permission gap, most visible in the
+  transition from Integrator to Architect.
+keywords:
+  - artificial intelligence
+  - AI adoption
+  - change management
+  - professional development
+  - identity
