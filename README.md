@@ -2,7 +2,7 @@
 
 ![Last updated](https://img.shields.io/badge/last%20updated-2026--07--24-00d4aa)
 ![Status](https://img.shields.io/badge/status-canonical%20v1-1a1a2e)
-![Field-tested](https://img.shields.io/badge/field--tested-yes-f0a500)
+![Practitioner-built](https://img.shields.io/badge/practitioner--built-yes-f0a500)
 ![Licence](https://img.shields.io/badge/licence-CC%20BY%204.0-00d4aa)
 
 A model for AI adoption built around **identity, not tooling** — because the thing that stops capable people from going further is rarely a skill gap. It's a self-concept gap.
@@ -48,7 +48,7 @@ The [stage locator](framework/stage-locator.md) is a two-minute self-assessment.
 
 ## Where this came from
 
-This isn't a whiteboard model. It's drawn from delivering AI training and adoption work with real organisations — an SMB marketing agency, a national ministry team, and professionals across sectors — where the same pattern kept showing up: the people who stalled weren't short on skill. They were waiting for permission.
+This isn't a whiteboard model. It comes from years of building and delivering AI training and adoption work — including an AI literacy programme built for small businesses and a multi-session AI programme for a national ministry team — and from watching the same pattern surface across roles and sectors: the people who stalled weren't short on skill. They were waiting for permission.
 
 The stages describe that pattern. The Architect stage, in particular, is the one standard maturity models don't have a name for, and it's where I've watched the most capable people sit longest.
 
