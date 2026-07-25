@@ -1,8 +1,10 @@
 # Stage Locator
 
-A short self-assessment. It won't take five minutes. Read the six statements below and pick the one that lands first — the one you recognise before you've finished reasoning about it. That's usually your stage.
+A short reflective self-assessment. It is not a psychometric test and has not been statistically validated. Read the six statements below and pick the one that lands first — the one you recognise before you've finished reasoning about it. That's usually the most useful starting hypothesis.
 
 If two feel close, you're probably moving between them. Pick the one that describes most of your week.
+
+Last reviewed: 2026-07-24. See [sources and verification notes](../sources.md).
 
 ---
 
@@ -28,7 +30,7 @@ If two feel close, you're probably moving between them. Pick the one that descri
 
 ## What to do with your result
 
-The stage isn't a grade. It's a diagnosis of what's actually holding you — which is rarely what you'd assume.
+The stage isn't a grade. It's a prompt for asking what might be holding you — which is not always what you'd assume.
 
 - If you landed in **1–3**, your next step is about lowering the cost of trying.
 - If you landed in **4**, your next step is a question, not a course: *whose problem do you keep noticing?*
@@ -36,3 +38,10 @@ The stage isn't a grade. It's a diagnosis of what's actually holding you — whi
 - If you landed in **6**, you already know. Pick the problem.
 
 > **The point of the model:** the thing stopping you is usually not the thing you'd name first. Most capable people assume they need more skill. Far more often, they need permission.
+
+## For teams and facilitators
+
+- Let people self-locate privately before discussing patterns.
+- Use aggregated patterns rather than naming individuals in front of a group.
+- Expect stage variation by task. Someone may be confident with internal drafting and cautious with client, student, regulated, or public work.
+- Pair the result with practical next steps: safe first tasks, repeatable workflows, review habits, and appropriate governance.

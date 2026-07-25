@@ -9,18 +9,20 @@ authors:
 version: "1.0.0"
 date-released: "2026-07-24"
 license: CC-BY-4.0
-url: "https://github.com/VictorOsondu/ai-adoption-model"
-repository: "https://aitutorium.com"
+url: "https://aitutorium.com"
+repository: "https://github.com/VictorOsondu/ai-adoption-model"
 abstract: >-
   A model for AI adoption that sorts people by internal experience rather than
   by tools deployed. Six stages — Nomad, Observer, Dabbler, Integrator,
   Architect, Innovator — each defined by a characteristic feeling and the
-  question underneath it. The model's central claim is that the largest barrier
-  to adoption is not a skill gap but a self-permission gap, most visible in the
-  transition from Integrator to Architect.
+  question underneath it. The model's central practitioner claim is that some
+  adoption stalls are better explained by identity, confidence, and
+  self-permission than by skill gaps alone, most visibly in the transition from
+  Integrator to Architect.
 keywords:
   - artificial intelligence
   - AI adoption
   - change management
   - professional development
   - identity
+  - self-efficacy

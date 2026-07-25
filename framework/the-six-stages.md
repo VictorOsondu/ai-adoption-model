@@ -2,13 +2,17 @@
 
 *A model built around identity, not tooling.*
 
+Last reviewed: 2026-07-24. See [sources and verification notes](../sources.md).
+
 Most frameworks for AI adoption measure what an organisation has: tools deployed, use cases live, data infrastructure, hours logged. Those models are useful if you're making a board-level case for investment. They give you language and a roadmap.
 
 They can't tell you why a specific person — one who already has the tools, already sat the training, already had the moment where AI genuinely surprised them — still isn't taking the next step.
 
 That gap isn't in the org chart. It's in the person. And the variable it turns on is identity: whether someone believes, underneath everything, that they're the kind of person who goes further.
 
-This model sorts people by that internal experience rather than by their tooling. Most people can locate themselves before they finish reading, because the feeling lands before the description does.
+This model sorts people by that internal experience rather than by their tooling. In facilitation, many people can locate themselves quickly because the feeling lands before the description does.
+
+This is a reflective model, not a validated diagnostic instrument. People can move between stages by task, role, risk level, tool, or setting.
 
 ---
 
@@ -61,15 +65,15 @@ But most Integrators are optimising for themselves — their own output, their o
 
 *Feeling: restless, but hesitant.*
 
-This is the stage most frameworks skip entirely, and it's where capable people stall longest.
+This is the stage many tool-maturity frameworks underplay, and it is where capable people can stall even after they have developed practical competence.
 
 An Architect is sketching. They can see the shape of something they'd like to build — a process that would help their team, a tool that would solve a problem they understand better than anyone, a framework they've carried in their head for years. They're starting to think about what other people need, not just what makes their own work easier. The capability is there. The vision is forming.
 
 They just haven't committed to being someone who builds.
 
-The Architect sits between Integrator and Innovator, and they stay there longer than at any other stage. Not because the jump is technically steep — because it asks a question they've been quietly avoiding: "Do I actually believe I'm the kind of person who does this?"
+The Architect sits between Integrator and Innovator. In practice, this transition can take longer than expected, not because the jump is always technically steep, but because it asks a question people may have been quietly avoiding: "Do I actually believe I'm the kind of person who does this?"
 
-This is what I've watched stop capable professionals more reliably than any skill gap. The people who stall here aren't the ones who need more training. They've done the training, built the competence, earned the confidence in their own tool use — and are still waiting for something. Permission, maybe. Or proof that the next step belongs to them.
+This is what I have often watched stop capable professionals after the obvious skill gaps have been addressed. The people who stall here may have done the training, built the competence, earned the confidence in their own tool use — and still be waiting for something. Permission, maybe. Or proof that the next step belongs to them.
 
 ## Stage 6 — Innovator
 
@@ -89,7 +93,7 @@ That gap has a specific shape, and it has almost nothing to do with skills. It's
 
 ## What actually moves people
 
-If the barrier is identity rather than skill, the usual interventions miss. More training doesn't touch it. Neither does better onboarding or a company-wide strategy. Those address what someone knows, not what they believe about themselves.
+If the barrier is identity rather than skill, the usual interventions can miss. More training may not touch it. Neither will better onboarding or a company-wide strategy by itself. Those address what someone knows, not what they believe about themselves.
 
 Three things tend to move people, and none of them scale like an org chart:
 
@@ -97,7 +101,19 @@ Three things tend to move people, and none of them scale like an org chart:
 - **The right question at the right moment** — not "have you tried this tool?" but "whose problem do you keep noticing that nobody's solving?" It surfaces the thing they've been carrying without examining.
 - **Specific permission from someone credible** — not generic encouragement, but recognition from someone who's been where they are and can say, without hedging, *you have what this takes.*
 
-The belief shifts in relationship, not in isolation.
+The belief often shifts in relationship, not in isolation.
+
+## How to use the model responsibly
+
+- Treat the stage as a current working hypothesis, not a fixed identity.
+- Ask people to self-locate; do not assign a stage to someone as a judgement.
+- Look for context: a person may be an Integrator in private work and an Observer in client-facing or regulated work.
+- Pair stage work with practical safeguards: data boundaries, human review, procurement rules, and clear escalation paths.
+- Use the model to choose the next useful support, not to rank people.
+
+## What this model is not
+
+It is not a maturity model for infrastructure, governance, procurement, data readiness, or risk management. It does not replace AI literacy assessment, professional competence assessment, policy review, or formal change-management planning.
 
 ---
 

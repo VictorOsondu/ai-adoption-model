@@ -9,12 +9,16 @@ A model for AI adoption built around **identity, not tooling** — because the t
 
 This repository is the **canonical source** for the model. Every AI Tutorium playbook that references "the six stages" links here rather than copying it, so there's one version, maintained in one place.
 
+Last reviewed: 2026-07-24. See [sources and verification notes](sources.md).
+
 ## Contents
 
 - [Who this is for](#who-this-is-for)
 - [The six stages](#the-six-stages)
 - [Start here: locate yourself](#start-here-locate-yourself)
 - [Where this came from](#where-this-came-from)
+- [Scope](#scope)
+- [Related resources](#related-resources)
 - [How to cite](#how-to-cite)
 - [Free vs done-with-you](#free-vs-done-with-you)
 - [Part of a series](#part-of-a-series)
@@ -48,15 +52,33 @@ The [stage locator](framework/stage-locator.md) is a two-minute self-assessment.
 
 ## Where this came from
 
-This isn't a whiteboard model. It comes from years of building and delivering AI training and adoption work — including an AI literacy programme built for small businesses and a multi-session AI programme for a national ministry team — and from watching the same pattern surface across roles and sectors: the people who stalled weren't short on skill. They were waiting for permission.
+This isn't a whiteboard model. It comes from years of building and delivering AI training and adoption work — including an AI literacy programme built for small businesses and a multi-session AI programme for a national ministry team — and from watching the same pattern surface across roles and sectors: many people who stalled were not simply short on skill. They were waiting for permission.
 
-The stages describe that pattern. The Architect stage, in particular, is the one standard maturity models don't have a name for, and it's where I've watched the most capable people sit longest.
+The stages describe that pattern. The Architect stage, in particular, names a transition that tool-maturity models often underplay: the move from using AI for your own work to building something useful for others.
+
+The model is practitioner-built. It is useful for reflection, facilitation, and adoption design; it is not a validated psychometric instrument. Evidence boundaries and related references are listed in [sources.md](sources.md).
+
+## Scope
+
+Use this model to start better conversations about AI adoption, not to label people permanently. A person's stage may differ by task, tool, role, confidence, risk level, organisational culture, and available support.
+
+This repository does not provide legal, HR, procurement, data-protection, psychological, or regulated professional advice. Pair it with appropriate governance and risk guidance when using AI in an organisation.
+
+## Related resources
+
+- [AI Adoption Playbooks](https://github.com/VictorOsondu/ai-adoption-playbooks)
+- [AI Adoption Toolkit](https://github.com/VictorOsondu/ai-adoption-toolkit)
+- [AI Adoption for Leaders](https://github.com/VictorOsondu/ai-adoption-leaders)
+- [AI Adoption for Professionals](https://github.com/VictorOsondu/ai-adoption-professional)
+- [AI-Era Data & Privacy Playbook](https://github.com/VictorOsondu/ai-data-privacy-playbook)
+- [AI Governance Kit](https://github.com/VictorOsondu/ai-governance-kit)
 
 ## How to cite
 
 Please do — that's what the CC BY licence is for. See [CITATION.cff](CITATION.cff) for the structured citation, or use:
 
-> Osondu, V. (2026). *The Six Stages of AI Adoption: a model built around identity, not tooling.* AI Tutorium. https://aitutorium.com
+> Osondu, V. (2026). *The Six Stages of AI Adoption: a model built around
+> identity, not tooling.* [AI Tutorium](https://aitutorium.com).
 
 ## Free vs done-with-you
 
