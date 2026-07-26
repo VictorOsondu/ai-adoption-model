@@ -4,6 +4,8 @@
 ![Status](https://img.shields.io/badge/status-canonical%20v1-1a1a2e)
 ![Practitioner-built](https://img.shields.io/badge/practitioner--built-yes-f0a500)
 ![Licence](https://img.shields.io/badge/licence-CC%20BY%204.0-00d4aa)
+<!-- After the first Zenodo release, replace XXXXXXX with the concept DOI and uncomment: -->
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 
 A model for AI adoption built around **identity, not tooling** — because the thing that stops capable people from going further is rarely a skill gap. It's a self-concept gap.
 
@@ -79,6 +81,8 @@ Please do — that's what the CC BY licence is for. See [CITATION.cff](CITATION.
 
 > Osondu, V. (2026). *The Six Stages of AI Adoption: a model built around
 > identity, not tooling.* [AI Tutorium](https://aitutorium.com).
+
+**Permanent archive (DOI).** Each tagged release of this repo is archived on [Zenodo](https://zenodo.org), which mints a permanent, versioned DOI. Cite the DOI when you need a stable, dated reference — it's the version-of-record and won't move if the repo does. The DOI badge above links to the latest archived version once the first release is published (see [RELEASING.md](RELEASING.md)).
 
 ## Free vs done-with-you
 

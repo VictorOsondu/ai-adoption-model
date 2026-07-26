@@ -9,6 +9,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-07-24"
 license: CC-BY-4.0
+# doi: 10.5281/zenodo.XXXXXXX  # add the Zenodo concept DOI after the first release (see RELEASING.md)
 url: "https://aitutorium.com"
 repository: "https://github.com/VictorOsondu/ai-adoption-model"
 abstract: >-
